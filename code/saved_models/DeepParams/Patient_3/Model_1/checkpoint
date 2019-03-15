@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Aris\\Desktop\\Epilepsy\\code\\saved_models\\DeepParams\\Patient_3\\Model_2\\cnn.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Aris\\Desktop\\Epilepsy\\code\\saved_models\\DeepParams\\Patient_3\\Model_2\\cnn.ckpt"
